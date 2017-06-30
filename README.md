@@ -4,6 +4,7 @@ This is my main "testing" directory for my Golang exploration. Currently not wor
 ## Books I'm Currently Reading
 Here are some books that I'm currently reading as a part of my current Go learning process.
 
+* [The Go Programming Language](http://www.gopl.io/)
 * [Go in Action](https://www.manning.com/books/go-in-action)
 
 ## Projects
