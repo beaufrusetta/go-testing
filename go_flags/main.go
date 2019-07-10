@@ -15,7 +15,7 @@ func main() {
 	flags.Parse(&opts)
 
 	if opts.Spanish == true {
-		fmt.Printf("Hola %s!\n", opts.Name)
+		fmt.Printf("Hola %s, buenos dias!\n", opts.Name)
 	} else {
 		fmt.Printf("Hello %s!\n", opts.Name)
 	}
